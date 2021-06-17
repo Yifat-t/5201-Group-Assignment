@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500&family=Raleway:wght@300&display=swap');
+html {
+  box-sizing:border-box;
+}
+*, *::before, *::after {
+  box-sizing:inherit;
+}
+body {
+  font:normal 1.1em/1.2 'Raleway',sans-serif;
+  font-weight:300;
+  margin:0;
+  background-color:#fffbf1; 
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family:'Quicksand',sans-serif;
+  font-weight:500;
+}
+a {
+  color:#820333;
+}
+.page-container {
+  max-width:1200px;
+  margin:auto;
+}
+main , header{
+	text-align:center;
+}
+.hidden {
+  position:absolute;
+  left:-10000px;
+  width:1px;
+  height:1px;
+}
+a:hover{
+  background-color:#c9283e;
+}
+
+#header {
+  background-color:#f0433a;
+  margin-bottom:2em;
+}
+#header a {
+  color:#fff;
+  text-decoration:none;
+}
+#header a:hover {
+  color:#260f25;
+}
+#main-menu {
+  background-color:#c9283e;
+}
+#main-menu a {
+  font-size:1.15em;
+}
+#main-menu a:hover {
+  color:#ffe5a5;
+}
+.menu {
+  padding:0 1em;
+  font-family:'Quicksand',sans-serif;
+  font-weight:500;
+}
+.menu li {
+  display:inline-block;
+  list-style-type:none;
+  margin-right:1.7em;
+  vertical-align:top;
+  text-transform:uppercase;
+  padding:0.5em 0;
+}
+
+#footer {
+  clear:both;
+  background-color:#f0433a;
+  color:#fff;
+  font-size:0.8em;
+  padding:1em 0;
+}
