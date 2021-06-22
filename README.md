@@ -2,22 +2,20 @@
 
 ## members:
 
-Yifat Tshuva 
+Yifat Tshuva
 
-Alby	Baby
+Alby Baby
 
-Ruth	Frogoso
+Ruth Frogoso
 
-Majdi	Nawfal
-
-
+Majdi Nawfal
 
 Yifat-
 Homepage+css
 Risk#1
 Risk#2
 
-Alby- 
+Alby-
 Risk#3
 Risk#4
 Risk#5
@@ -30,8 +28,3 @@ Risk#8
 Majdi-
 Risk#9
 Risk#10
-A description of your branching model
-
-
-A description of your branching model
-
